@@ -1,0 +1,15 @@
+.header-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.article-body p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.article-body p {
+  word-break: break-all;
+}
